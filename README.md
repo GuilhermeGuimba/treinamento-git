@@ -6,6 +6,8 @@ Arquivo de exemplo para o treinamento de git da Iteris!
 
 teste de subtítulo
 
+teste de alteração na main
+
 ###subsubtítulo
 
 Alteração da develop
